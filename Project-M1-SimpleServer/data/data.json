@@ -1,0 +1,62 @@
+[
+  {
+      "id": 0,
+      "customerName": "Chris MacDonald",
+      "phoneNumber": "480-329-4772",
+      "address": "1522 S Price Rd Tempe AZ 85281",
+      "loanAmount": 10000,
+      "interest": 6,
+      "loanTermYears": 4,
+      "loanType": "Car Loan",
+      "description": "Borrowed $10,000 to purchase a car",
+      "amount": ""
+    },
+    {
+      "id": 1,
+      "customerName": "John Doe",
+      "phoneNumber": "123-456-7890",
+      "address": "123 W Main Street Chicago IL 56482",
+      "loanAmount": 150000,
+      "interest": 7.8,
+      "loanTermYears": 15,
+      "loanType": "Home Loan",
+      "description": "Borrowed $150,000 for mortgage",
+      "amount": ""
+    },
+    {
+      "id": 2,
+      "customerName": "Jane Doe",
+      "phoneNumber": "623-513-4672",
+      "address": "425 E Broadway Rd Phoenix AZ 85045",
+      "loanAmount": 5000,
+      "interest": 3,
+      "loanTermYears": 2.5,
+      "loanType": "Car Loan",
+      "description": "Borrowed $5,000 to purchase a car",
+      "amount": ""
+    },
+    {
+      "id": 3,
+      "customerName": "Mike Smith",
+      "phoneNumber": "561-273-5014",
+      "address": "681 S Cutler Way Palm Harbor FL 33065",
+      "loanAmount": 200000,
+      "interest": 4.5,
+      "loanTermYears": 8,
+      "loanType": "Home Loan",
+      "description": "Borrowed $200,000 for home mortgage",
+      "amount": ""
+    },
+    {
+      "id": 4,
+      "customerName": "Anna Bell",
+      "phoneNumber": "495-208-4468",
+      "address": "472 W Orchard Way Austin TX 44235",
+      "loanAmount": 175000,
+      "interest": 6,
+      "loanTermYears": 3.5,
+      "loanType": "Car Loan",
+      "description": "Borrowed $175,000 to purchase a car",
+      "amount": ""
+  }
+]
